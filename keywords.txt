@@ -1,0 +1,74 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Pixel	KEYWORD1
+RGB_Color	KEYWORD1
+RBG_Color	KEYWORD1
+BGR_Color	KEYWORD1
+BRG_Color	KEYWORD1
+GBR_Color	KEYWORD1
+GRB_Color	KEYWORD1
+rgb_struct	KEYWORD1
+rgb_struct	KEYWORD1
+brg_struct	KEYWORD1
+bgr_struct	KEYWORD1
+grb_struct	KEYWORD1
+gbr_struct	KEYWORD1
+
+SimpleTimer	KEYWORD1
+FrameTimer	KEYWORD1
+EdgeType	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+qadd16
+qmult16
+lerp
+indexAt
+nextFrame
+processKeypress
+vecCopyFast
+vecFillFast
+vecAddFast
+vecScaleFast
+vecFadeFast
+vecShiftFast
+vecMaxFast
+vecMinFast
+vecTransposeFast
+saturatingAdd
+convolveSeparable
+blur2d
+sinFast
+vecFill
+vecAdd
+vecFade
+
+######################################
+# Constants (LITERAL1)
+#######################################
+
+Black	LITERAL1
+White	LITERAL1
+Red	LITERAL1
+Orange	LITERAL1
+Yellow	LITERAL1
+Chartreuse	LITERAL1
+Green	LITERAL1
+SpringGreen	LITERAL1
+Cyan	LITERAL1
+DodgerBlue	LITERAL1
+Blue	LITERAL1
+Purple	LITERAL1
+Violet	LITERAL1
+Magenta	LITERAL1
+Indigo	LITERAL1
+rainbow7	LITERAL1
+rainbow12	LITERAL1
